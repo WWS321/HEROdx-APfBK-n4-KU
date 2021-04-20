@@ -1,0 +1,16 @@
+{
+  "name": "vlessheroku",
+  "description": "Deploy vless on Heroku.",
+  "keywords": [
+    "vless"
+  ],
+  "env": {
+    "UUID": {
+      "description": "VLESS UUID",
+      "value": "3f3e0910-393f-4d31-84be-3ae1139e6bd4"
+    }
+  },
+  "website": "https://github.com/WWS321/",
+  "repository": "https://github.com/WWS321/HEROdx-APfBK-n4-KU",
+  "stack": "container"
+}
